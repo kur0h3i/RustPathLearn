@@ -20,33 +20,22 @@
 
 ## 🗺️ Índice de módulos
 
-| # | Módulo | Duración estimada |
-|---|--------|-------------------|
-| 01 | [Fundamentos del lenguaje](#01---fundamentos-del-lenguaje) | 1–2 semanas |
-| 02 | [Ownership, Borrowing y Lifetimes](#02---ownership-borrowing-y-lifetimes) | 2–3 semanas |
-| 03 | [Structs, Enums y Pattern Matching](#03---structs-enums-y-pattern-matching) | 1–2 semanas |
-| 04 | [Traits y Genéricos](#04---traits-y-genéricos) | 2 semanas |
-| 05 | [Colecciones e Iteradores](#05---colecciones-e-iteradores) | 1–2 semanas |
-| 06 | [Manejo de Errores](#06---manejo-de-errores) | 1 semana |
-| 07 | [Módulos, Crates y Cargo avanzado](#07---módulos-crates-y-cargo-avanzado) | 1 semana |
-| 08 | [Smart Pointers](#08---smart-pointers) | 1–2 semanas |
-| 09 | [Concurrencia](#09---concurrencia) | 2 semanas |
-| 10 | [Async / Await](#10---async--await) | 2–3 semanas |
-| 11 | [Macros](#11---macros) | 1–2 semanas |
-| 12 | [Unsafe y FFI](#12---unsafe-y-ffi) | 1–2 semanas |
-| 13 | [Testing y Benchmarking](#13---testing-y-benchmarking) | 1 semana |
-| 14 | [WebAssembly](#14---webassembly) | 1–2 semanas |
-
-> **Total estimado:** 5–7 meses a ritmo constante.
-
----
-
-## 📌 Cómo usar este roadmap
-
-1. Sigue los módulos **en orden**, cada uno construye sobre el anterior.
-2. No avances hasta haber completado el **proyecto final** del módulo.
-3. Usa `cargo clippy` y `cargo fmt` desde el primer día.
-4. Ante la duda, consulta [The Rust Book](https://doc.rust-lang.org/book/) y [Rust by Example](https://doc.rust-lang.org/rust-by-example/).
+| # | Módulo |
+|---|--------|
+| 01 | [Fundamentos del lenguaje](#01---fundamentos-del-lenguaje) |
+| 02 | [Ownership, Borrowing y Lifetimes](#02---ownership-borrowing-y-lifetimes) |
+| 03 | [Structs, Enums y Pattern Matching](#03---structs-enums-y-pattern-matching) | 
+| 04 | [Traits y Genéricos](#04---traits-y-genéricos) |
+| 05 | [Colecciones e Iteradores](#05---colecciones-e-iteradores) |
+| 06 | [Manejo de Errores](#06---manejo-de-errores) | 
+| 07 | [Módulos, Crates y Cargo avanzado](#07---módulos-crates-y-cargo-avanzado) ||
+| 08 | [Smart Pointers](#08---smart-pointers) |
+| 09 | [Concurrencia](#09---concurrencia) | 
+| 10 | [Async / Await](#10---async--await) | 
+| 11 | [Macros](#11---macros) | 
+| 12 | [Unsafe y FFI](#12---unsafe-y-ffi) | 
+| 13 | [Testing y Benchmarking](#13---testing-y-benchmarking) | 
+| 14 | [WebAssembly](#14---webassembly) | 
 
 ---
 
