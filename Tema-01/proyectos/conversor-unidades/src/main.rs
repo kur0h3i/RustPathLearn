@@ -52,6 +52,7 @@ fn main() {
         }
     }
 
+    // Salida
     println!("{} {}", num_original, args[2].as_str());
     println!("{:.4} {}", num, args[3].as_str());
 }
