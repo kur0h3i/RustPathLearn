@@ -4,7 +4,6 @@
 > Un proyecto final por cada módulo para consolidar lo aprendido.
 
 [![Rust](https://img.shields.io/badge/Rust-1.78+-CE412B?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Duración](https://img.shields.io/badge/Duración-5--7_meses-blue?style=flat-square)]()
 [![Módulos](https://img.shields.io/badge/Módulos-14-green?style=flat-square)]()
 [![Proyectos](https://img.shields.io/badge/Proyectos-14-orange?style=flat-square)]()
 
