@@ -31,7 +31,9 @@ fn main() {
     let inicio = &args[2];
 
     let fin = &args[3];
+    
 
+    // Salida
     println!("Unidad Inicio {}", num);
     println!("Unidad Inicio {}", inicio);
     println!("Unidad Final {}", fin);
